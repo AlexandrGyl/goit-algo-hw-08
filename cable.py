@@ -34,8 +34,8 @@ cumulative_result = cumulative_sum(sorted_arr_asc)
 cumulative_result_1 = cumulative_sum(sorted_arr_desc)
 
 # Виведення результату
-print("Кумулятивна сума для зєднання спочатку коротших відрізків:", cumulative_result)
+print("Кумулятивна сума витрат для зєднання спочатку коротших відрізків:", cumulative_result)
 
-print("Кумулятивна сума для зєднання спочатку довших відрізків:", cumulative_result_1)
+print("Кумулятивна сума  витрат для зєднання спочатку довших відрізків:", cumulative_result_1)
 
 
